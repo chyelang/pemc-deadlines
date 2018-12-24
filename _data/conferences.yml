@@ -5,7 +5,7 @@
   year: 2019
   id: iemdc19
   link: http://www.ieee-iemdc-conf.org/
-  deadline: '2018-12-16 23:59:00'
+  deadline: '2018-12-16 23:59:59'
   timezone: America/Los_Angeles
   date: May 12-15, 2019
   place: San Diego, USA
@@ -21,5 +21,25 @@
   date: August 11 - 14, 2019
   place: Harbin, China
   sub: MC
+
+- title: EPE’19 ECCE Europe
+  year: 2019
+  id: ECCE_Europe19
+  link: 	http://www.epe2019.com/
+  deadline: '2018-12-19 23:59:59'
+  timezone: Etc/GMT+1
+  date: September 02 - 04, 2019
+  place: Genoa, Italy
+  sub: PE MC
+
+- title: ECCE
+  year: 2019
+  id: ECCE19
+  link: http://www.ieee-ecce.org/2019/
+  deadline: '2019-01-15 23:59:59'
+  timezone: Etc/GMT+8
+  date: September 29 - October 3, 2019
+  place: Baltimore, Maryland, USA
+  sub: PE
 
 
