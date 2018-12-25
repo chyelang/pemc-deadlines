@@ -48,10 +48,10 @@
 
 - title: IECON
   year: 2019
-  id:
+  id: IECON2019
   link: https://iecon2019.org/
   deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT
+  timezone: Etc/GMT+0
   date: October 14-17, 2019
   place: Lisbon, Portugal
   sub:
@@ -59,7 +59,7 @@
 
 - title: ECCE Asia
   year: 2019
-  id:
+  id: ECCEAsia2019
   link: http://www.icpe2019.org/#
   deadline: '2018-10-13 23:59:59'
   timezone: Etc/GMT+9
