@@ -1,5 +1,16 @@
 
 ---
+- title: ITEC
+  year: 2019
+  id: itec2019
+  link: https://itec-conf.com
+  deadline: '2018-12-31 23:59:59'
+  timezone: Etc/GMT+5
+  date: June 29 - 21, 2019
+  place: Michigan, USA
+  sub:
+    - MC
+
 - title: ECCE
   year: 2019
   id: ECCE19
@@ -32,7 +43,19 @@
   place: Lisbon, Portugal
   sub:
     - PE
+    - MC
 
+- title: APEC
+  year: 2019
+  id: apec2019
+  link:  http://www.apec-conf.org/
+  deadline: '2018-07-18 23:59:59'
+  timezone: Etc/GMT+8
+  date: March 17 - 21, 2019
+  place: Anaheim, USA
+  sub:
+    - PE
+    - MC
 
 - title: ECCE Asia
   year: 2019
