@@ -1,50 +1,26 @@
 
 ---
-
-- title: IEMDC
+- title: ECCE
   year: 2019
-  id: iemdc19
-  link: http://www.ieee-iemdc-conf.org/
-  deadline: '2018-12-16 23:59:59'
-  timezone: Etc/GMT-8
-  date: May 12-15, 2019
-  place: San Diego, USA
-  sub: MC
-  note: '<b>NOTE</b>: Notification of the review results on Feb 17, 2019.'
+  id: ECCE19
+  link: http://www.ieee-ecce.org/2019/
+  deadline: '2019-01-15 23:59:59'
+  timezone: Etc/GMT+5
+  date: September 29 - October 3, 2019
+  place: Baltimore, USA
+  sub:
+    - PE
+    - MC
 
 - title: ICEMS
   year: 2019
   id: icems19
   link: http://icems2019.teamhelper.com.cn/
   deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT+8
+  timezone: Etc/GMT-8
   date: August 11 - 14, 2019
   place: Harbin, China
   sub: MC
-
-- title: ECCE Europe
-  year: 2019
-  id: ECCE_Europe19
-  link: 	http://www.epe2019.com/
-  deadline: '2018-12-19 23:59:59'
-  timezone: Etc/GMT+1
-  date: September 02 - 04, 2019
-  place: Genoa, Italy
-  sub:
-    - PE
-    - MC
-
-- title: ECCE
-  year: 2019
-  id: ECCE19
-  link: http://www.ieee-ecce.org/2019/
-  deadline: '2019-01-15 23:59:59'
-  timezone: Etc/GMT-5
-  date: September 29 - October 3, 2019
-  place: Baltimore, USA
-  sub:
-    - PE
-    - MC
 
 - title: IECON
   year: 2019
@@ -57,17 +33,47 @@
   sub:
     - PE
 
+
 - title: ECCE Asia
   year: 2019
   id: ECCEAsia2019
   link: http://www.icpe2019.org/#
   deadline: '2018-10-13 23:59:59'
-  timezone: Etc/GMT+9
+  timezone: Etc/GMT-9
   date: May 27 - 30, 2019
   place: Busan, Korea
   sub:
     - PE
     - MC
+
+- title: IEMDC
+  year: 2019
+  id: iemdc19
+  link: http://www.ieee-iemdc-conf.org/
+  deadline: '2018-12-16 23:59:59'
+  timezone: Etc/GMT+8
+  date: May 12-15, 2019
+  place: San Diego, USA
+  sub: MC
+  note: '<b>NOTE</b>: Notification of the review results on Feb 17, 2019.'
+
+- title: ECCE Europe
+  year: 2019
+  id: ECCE_Europe19
+  link: 	http://www.epe2019.com/
+  deadline: '2018-12-19 23:59:59'
+  timezone: Etc/GMT-1
+  date: September 02 - 04, 2019
+  place: Genoa, Italy
+  sub:
+    - PE
+    - MC
+
+
+
+
+
+
 
 
 
