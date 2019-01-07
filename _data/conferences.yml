@@ -1,16 +1,5 @@
 
 ---
-- title: ITEC
-  year: 2019
-  id: itec2019
-  link: https://itec-conf.com
-  deadline: '2018-12-31 23:59:59'
-  timezone: Etc/GMT+5
-  date: June 29 - 21, 2019
-  place: Michigan, USA
-  sub:
-    - MC
-
 - title: ECCE
   year: 2019
   id: ECCE19
@@ -90,6 +79,17 @@
   place: Genoa, Italy
   sub:
     - PE
+    - MC
+
+- title: ITEC
+  year: 2019
+  id: itec2019
+  link: https://itec-conf.com
+  deadline: '2018-12-31 23:59:59'
+  timezone: Etc/GMT+5
+  date: June 29 - 21, 2019
+  place: Michigan, USA
+  sub:
     - MC
 
 
