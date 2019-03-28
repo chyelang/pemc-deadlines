@@ -48,15 +48,16 @@
 
 - title: APEC
   year: 2020
-  id: apec2019
+  id: apec2020
   link:  http://www.apec-conf.org/
-  deadline: 'TBD'
+  deadline: '2020-03-15 23:59:59'
   timezone: Etc/GMT+6
   date:  Mar 15 - Mar 19, 2020
   place: New Orleans, LA USA
   sub:
     - PE
     - MC
+  note: '<b>NOTE</b>: Deadline is to be determined'
 
 - title: ECCE Asia
   year: 2019
