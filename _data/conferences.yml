@@ -1,17 +1,5 @@
 
 ---
-- title: ECCE
-  year: 2019
-  id: ECCE19
-  link: http://www.ieee-ecce.org/2019/
-  deadline: '2019-01-25 23:59:59'
-  timezone: Etc/GMT+5
-  date: September 29 - October 3, 2019
-  place: Baltimore, USA
-  sub:
-    - PE
-    - MC
-
 - title: ICEMS
   year: 2019
   id: icems19
@@ -34,14 +22,38 @@
     - PE
     - MC
 
+- title: ECCE Europe
+  year: 2020
+  id: ECCE_Europe20
+  link: 	http://www.epe2020.com/
+  deadline: '2019-11-15 23:59:59'
+  timezone: Etc/GMT-1
+  date: September 07 - 10, 2020
+  place: Lyon, France
+  sub:
+    - PE
+    - MC
+
+- title: ECCE
+  year: 2020
+  id: ECCE20
+  link: http://www.ieee-ecce.org/2020/
+  deadline: '2020-01-15 23:59:59'
+  timezone: Etc/GMT+5
+  date: Oct 11 - Oct 15, 2020
+  place: Detroit, MI USA
+  sub:
+    - PE
+    - MC
+
 - title: APEC
-  year: 2019
+  year: 2020
   id: apec2019
   link:  http://www.apec-conf.org/
-  deadline: '2018-07-18 23:59:59'
-  timezone: Etc/GMT+8
-  date: March 17 - 21, 2019
-  place: Anaheim, USA
+  deadline: 'TBD'
+  timezone: Etc/GMT+6
+  date:  Mar 15 - Mar 19, 2020
+  place: New Orleans, LA USA
   sub:
     - PE
     - MC
@@ -69,18 +81,6 @@
   sub: MC
   note: '<b>NOTE</b>: Notification of the review results on Feb 17, 2019.'
 
-- title: ECCE Europe
-  year: 2019
-  id: ECCE_Europe19
-  link: 	http://www.epe2019.com/
-  deadline: '2018-12-19 23:59:59'
-  timezone: Etc/GMT-1
-  date: September 02 - 04, 2019
-  place: Genoa, Italy
-  sub:
-    - PE
-    - MC
-
 - title: ITEC
   year: 2019
   id: itec2019
@@ -91,6 +91,8 @@
   place: Michigan, USA
   sub:
     - MC
+
+
 
 
 
