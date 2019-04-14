@@ -1,26 +1,18 @@
 
 ---
-- title: ICEMS
-  year: 2019
-  id: icems19
-  link: http://icems2019.teamhelper.com.cn/
-  deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT-8
-  date: August 11 - 14, 2019
-  place: Harbin, China
-  sub: MC
 
-- title: IECON
-  year: 2019
-  id: IECON2019
-  link: https://iecon2019.org/
-  deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT+0
-  date: October 14-17, 2019
-  place: Lisbon, Portugal
+- title: APEC
+  year: 2020
+  id: apec2020
+  link:  http://www.apec-conf.org/
+  deadline: '2019-07-19 23:59:59'
+  timezone: Etc/GMT+6
+  date:  Mar 15 - Mar 19, 2020
+  place: New Orleans, LA USA
   sub:
     - PE
     - MC
+  note: '<b>NOTE</b>: Deadline is subject to change'
 
 - title: ECCE Europe
   year: 2020
@@ -46,18 +38,18 @@
     - PE
     - MC
 
-- title: APEC
+- title: IECON
   year: 2020
-  id: apec2020
-  link:  http://www.apec-conf.org/
-  deadline: '2020-03-15 23:59:59'
-  timezone: Etc/GMT+6
-  date:  Mar 15 - Mar 19, 2020
-  place: New Orleans, LA USA
+  id: IECON2020
+  link: TBA
+  deadline: '2020-10-25 23:59:59'
+  timezone: Etc/GMT-8
+  date: October 25-29, 2020
+  place: Singapore, Singapore
+  note: '<b>NOTE</b>: Deadline is TBA'
   sub:
     - PE
     - MC
-  note: '<b>NOTE</b>: Deadline is to be determined'
 
 - title: ECCE Asia
   year: 2019
@@ -93,7 +85,15 @@
   sub:
     - MC
 
-
+- title: ICEMS
+  year: 2019
+  id: icems19
+  link: http://icems2019.teamhelper.com.cn/
+  deadline: '2019-04-01 23:59:59'
+  timezone: Etc/GMT-8
+  date: August 11 - 14, 2019
+  place: Harbin, China
+  sub: MC
 
 
 
