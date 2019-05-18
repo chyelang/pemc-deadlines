@@ -51,17 +51,16 @@
     - PE
     - MC
 
-- title: ECCE Asia
-  year: 2019
-  id: ECCEAsia2019
-  link: http://www.icpe2019.org/#
-  deadline: '2018-10-13 23:59:59'
-  timezone: Etc/GMT-9
-  date: May 27 - 30, 2019
-  place: Busan, Korea
-  sub:
-    - PE
-    - MC
+- title: ICEM
+  year: 2020
+  id: icem20
+  link: https://icem2020.se/
+  deadline: '2020-02-29 23:59:59'
+  timezone: Etc/GMT-1
+  date: Aug 23-26, 2020
+  place: GOTHENBURG, SWEDEN
+  sub: MC
+  note: '<b>NOTE</b>: Full paper submission: Februry 29, 2020; Full paper notification: June 3, 2020'
 
 - title: IEMDC
   year: 2019
@@ -73,6 +72,18 @@
   place: San Diego, USA
   sub: MC
   note: '<b>NOTE</b>: Notification of the review results on Feb 17, 2019.'
+
+- title: ECCE Asia
+  year: 2019
+  id: ECCEAsia2019
+  link: http://www.icpe2019.org/#
+  deadline: '2018-10-13 23:59:59'
+  timezone: Etc/GMT-9
+  date: May 27 - 30, 2019
+  place: Busan, Korea
+  sub:
+    - PE
+    - MC
 
 - title: ITEC
   year: 2019
@@ -101,5 +112,5 @@
 
 
 
-
+International Conference on Electrical Machines
 
