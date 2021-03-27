@@ -1,13 +1,13 @@
-title: PEMC Conference Deadlines # (Maintained by @chyelang)
-# email: zouxm16@mails.tsinghua.edu.cn
+title: PEMC Conference Deadlines # (Maintained by @milletbig)
+# email: cledewang@xtu.edu.cn
 description: Countdowns to top PE/MC conference deadlines.
-author: chyelang
+author: Shawn
 
 domain: "notes.pemcdeadlines.ml"
 baseurl: ""
 
-twitter_username: abhshkdz
-github_username: chyelang
+twitter_username: hi_shawnn
+github_username: milletbig
 github_repo: pemc-deadlines
 
 markdown: kramdown
