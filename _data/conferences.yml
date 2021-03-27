@@ -2,12 +2,12 @@
 ---
 
 - title: APEC
-  year: 2020
-  id: apec2020
+  year: 2021
+  id: apec2021
   link:  http://www.apec-conf.org/
-  deadline: '2019-07-19 23:59:59'
+  deadline: '2021-07-19 23:59:59'
   timezone: Etc/GMT+6
-  date:  Mar 15 - Mar 19, 2020
+  date:  Mar 15 - Mar 19, 2021
   place: New Orleans, LA USA
   sub:
     - PE
