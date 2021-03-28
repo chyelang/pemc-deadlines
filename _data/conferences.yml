@@ -1,108 +1,94 @@
-
 ---
 
-- title: APEC
-  year: 2020
-  id: apec2021
-  link:  http://www.apec-conf.org/
-  deadline: '2020-07-19 23:59:59'
-  timezone: Etc/GMT+6
-  date:  Mar 15 - Mar 19, 2020
-  place: New Orleans, LA USA
-  sub:
-    - PE
-    - MC
-  note: '<b>NOTE</b>: Deadline is subject to change'
-
 - title: ECCE Europe
-  year: 2020
-  id: ECCE_Europe20
-  link: 	http://www.epe2020.com/
-  deadline: '2019-11-15 23:59:59'
+  year: 2021
+  id: EPE’21 ECCE Europe
+  link: http://www.epe2021.com/
+  deadline: '2020-12-23 23:59:59'
   timezone: Etc/GMT-1
-  date: September 07 - 10, 2020
-  place: Lyon, France
+  date: September 06 - 10, 2021
+  place: Ghent, Belgium
   sub:
     - PE
     - MC
 
 - title: ECCE
-  year: 2020
-  id: ECCE20
-  link: http://www.ieee-ecce.org/2020/
-  deadline: '2020-01-15 23:59:59'
-  timezone: Etc/GMT+5
-  date: Oct 11 - Oct 15, 2020
-  place: Detroit, MI USA
+  year: 2021
+  id: ECCE 2021
+  link: http://www.ieee-ecce.org/2021/
+  deadline: '2021-01-15 23:59:59'
+  timezone: Etc/GMT+4
+  date: October 10 - 14, 2021
+  place: Vancouver, Canada
   sub:
     - PE
     - MC
+  note: '<b>NOTE</b>: Digest Acceptance Notice on May 1, 2021.'
 
 - title: IECON
-  year: 2020
-  id: IECON2020
-  link: TBA
-  deadline: '2020-10-25 23:59:59'
-  timezone: Etc/GMT-8
-  date: October 25-29, 2020
-  place: Singapore, Singapore
-  note: '<b>NOTE</b>: Deadline is TBA'
+  year: 2021
+  id: IECON 2021
+  link: https://ieeeiecon.org/
+  deadline: '2021-06-25 23:59:59'
+  timezone: Etc/GMT+4
+  date: October 13 - 16, 2021
+  place: Toronto, Canada
   sub:
     - PE
     - MC
-
-- title: ICEM
-  year: 2020
-  id: icem20
-  link: https://icem2020.se/
-  deadline: '2020-02-29 23:59:59'
-  timezone: Etc/GMT-1
-  date: Aug 23-26, 2020
-  place: GOTHENBURG, SWEDEN
-  sub: MC
-  note: '<b>NOTE</b>: Full paper notification on June 3 2020'
+  note: '<b>NOTE</b>: Acceptance Notification on July 30, 2021.'
 
 - title: IEMDC
-  year: 2019
-  id: iemdc19
-  link: http://www.ieee-iemdc-conf.org/
-  deadline: '2018-12-16 23:59:59'
-  timezone: Etc/GMT+8
-  date: May 12-15, 2019
-  place: San Diego, USA
+  year: 2021
+  id: IEMDC 2021
+  link: https://iemdc-2021.com/
+  deadline: '2020-12-27 23:59:59'
+  timezone: Etc/GMT+4
+  date: May 17 - 20, 2021
+  place: Connecticut, USA
   sub: MC
-  note: '<b>NOTE</b>: Notification of the review results on Feb 17, 2019.'
 
 - title: ECCE Asia
-  year: 2019
-  id: ECCEAsia2019
-  link: http://www.icpe2019.org/#
-  deadline: '2018-10-13 23:59:59'
-  timezone: Etc/GMT-9
-  date: May 27 - 30, 2019
-  place: Busan, Korea
+  year: 2021
+  id: ECCE Asia 2021
+  link: https://ecceasia2021.com/
+  deadline: '2020-12-15 23:59:59'
+  timezone: Etc/GMT-8
+  date: May 24 - 27, 2021
+  place: Singapore, Singapore
   sub:
     - PE
-    - MC
-
-- title: ITEC
-  year: 2019
-  id: itec2019
-  link: https://itec-conf.com
-  deadline: '2018-12-31 23:59:59'
-  timezone: Etc/GMT+5
-  date: June 29 - 21, 2019
-  place: Michigan, USA
-  sub:
     - MC
 
 - title: ICEMS
-  year: 2019
-  id: icems19
-  link: http://icems2019.teamhelper.com.cn/
-  deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT-8
-  date: August 11 - 14, 2019
-  place: Harbin, China
+  year: 2021
+  id: ICEMS 2021
+  link: https://www.icems2021.com/
+  deadline: '2021-03-31 23:59:59'
+  timezone: Etc/GMT-9
+  date: October 31 – November 3, 2021
+  place: Gyeongju, Korea
   sub: MC
-
+  note: '<b>NOTE</b>: Digest Acceptance Notice on May 31, 2021.'
+  
+- title: PEDS
+  year: 2021
+  id: PEDS 2021
+  link: http://www.ieee-peds.org
+  deadline: '2020-10-15 23:59:59'
+  timezone: Etc/GMT+4
+  date: June 27 – 30, 2021
+  place: Montreal，Canada
+  sub: PE
+  note: '<b>NOTE</b>: Held every two years.'
+  
+- title: APPEEC
+  year: 2021
+  id: APPEEC 2021
+  link: https://ieee-appeec.org/
+  deadline: '2021-04-15 23:59:59'
+  timezone: Etc/GMT-5:30
+  date: November 21 – 23, 2021
+  place: Trivandrum, Kerala
+  sub: PE
+  note: '<b>NOTE</b>: Notification of acceptance on Aug 15, 2021.'
